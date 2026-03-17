@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="center">💻 Técnologias</h2>
+<h2 align="center">💻 Técnologias 💻</h2>
 
 ###
 
