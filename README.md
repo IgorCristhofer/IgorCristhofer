@@ -58,9 +58,9 @@
 
 <br clear="both">
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IgorCristhofer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IgorCristhofer&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=tokyonight&hide_border=false&order=2&custom_title=Principais%20Linguagens%20📝" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IgorCristhofer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&order=1" widith="50%" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IgorCristhofer&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=tokyonight&hide_border=false&order=2&custom_title=Principais%20Linguagens%20📝" widith="50%" alt="languages graph"  />
 </div>
 
 ###
