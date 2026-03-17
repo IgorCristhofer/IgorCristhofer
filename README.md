@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="img-01.jpg"  />
+  <img height="992" src="img-01.jpg"  />
 </div>
 
 ###
