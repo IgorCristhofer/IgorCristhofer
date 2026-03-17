@@ -1,5 +1,7 @@
 ## Esse sou eu 👋
 
+<img src="https://pin.it/6v5ygWR5t" alt="Descrição da imagem para acessibilidade">
+
 <!--
 **IgorCristhofer/IgorCristhofer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
