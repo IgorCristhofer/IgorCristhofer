@@ -1,6 +1,6 @@
 <h1>Esse sou eu 👋</h1>
 <p align="end">
-  <img src="https://i.pinimg.com/originals/6d/8e/cf/6d8ecfe62ead625e98f9e75536a52e8a.gif" alt="Descrição da imagem para acessibilidade" width="50%">
+  <img src="https://i.pinimg.com/originals/6d/8e/cf/6d8ecfe62ead625e98f9e75536a52e8a.gif" alt="Descrição da imagem para acessibilidade" width="25%">
 </p>
 agotra vem o texto lorem
 agotra vem o texto lorem
