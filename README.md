@@ -42,9 +42,8 @@
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />&nbsp;
   <img width="12" /> &nbsp; &nbsp;
   <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
+  <img width="12" /><br>
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
