@@ -27,7 +27,7 @@
 <p align="left">
   👋🏾 Olá, Sou Igor Cristhofer. Atualmente estudo Análise e Desenvolvimento de Sistemas e faço cursos extras de desenvolvedor Front-End.
   <br>
-  <br>🎓 Cursando Análise e Desenvolvimento de Sistemas (FATECIE).
+  <br>🎓 Cursando Análise e Desenvolvimento de Sistemas (<strong>FATECIE</strong>).
   <br>🌱 Atualmente aprimorando conhecimentos em React, TypeScript e Tailwind CSS.
   <br>✍️ Nas horas vagas, gosto de escrever contos e explorar mundos em jogos de sobrevivência e sandbox.
 </p>
