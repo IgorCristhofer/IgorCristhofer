@@ -40,27 +40,25 @@
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />&nbsp;
-  <img width="12" /> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo"  />
-  <img width="12" /> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" /> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
-  <img width="12" /> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" /> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" /> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
-
-<br>
+<br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IgorCristhofer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&order=1" widith="50%" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IgorCristhofer&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=tokyonight&hide_border=false&order=2&custom_title=Principais%20Linguagens%20📝" widith="50%" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=IgorCristhofer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&order=1" width="50%" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IgorCristhofer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" width="50%" alt="languages graph"  />
 </div>
 
 ###
