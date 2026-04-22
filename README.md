@@ -33,3 +33,6 @@
 </div>
 
 ###
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=IgorCristhofer&theme=blueberry&hide_border=verdadeiro&locale=pt&short_numbers=verdadeiro)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCristhofer)](https://github.com/anuraghazra/github-readme-stats)
