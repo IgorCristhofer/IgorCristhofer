@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">😉 Sobre mim! 😉</h1>
+<h1 align="center">😉 Sobre mim! 🤩</h1>
 
 ###
 
@@ -35,4 +35,4 @@
 ###
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=IgorCristhofer&theme=transparent&hide_border=verdadeiro&locale=pt&short_numbers=verdadeiro&card_height=215)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCristhofer&theme=transparent&custom_title=Linguagens%20mais%20usada&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCristhofer&theme=transparent&custom_title=Linguagens%20mais%20usada&layout=donut&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
