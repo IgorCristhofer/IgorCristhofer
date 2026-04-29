@@ -1,5 +1,3 @@
-<div style="background-color: rgba(24, 24, 24, 0.75); background-image: url('img.jpg');">
-
 ###
 <h1 align="center" style="background: linear-gradient(to top,rgba(24, 24, 24, 0.75),rgba(117, 117, 117, 0))">😉 Sobre mim! 🤩</h1>
 
@@ -39,5 +37,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=IgorCristhofer&theme=neon&hide_border=verdadeiro&locale=pt&short_numbers=verdadeiro&card_height=215)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorCristhofer&theme=neon&custom_title=Linguagens%20mais%20usada&layout=donut&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
 </div>
