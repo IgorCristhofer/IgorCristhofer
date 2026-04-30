@@ -21,7 +21,7 @@
   <img src="https://skillicons.dev/icons?i=css" height="58" alt="css logo"  />
   <img width="22" />
   <img src="https://skillicons.dev/icons?i=c" height="58" alt="c logo"  />
-  <img width="220" />
+  <img width="54" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="58" alt="tailwindcss logo"  />
   <img width="22" />
   <img src="https://skillicons.dev/icons?i=react" height="58" alt="react logo"  />
