@@ -15,19 +15,19 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="58" alt="javascript logo"  />
-  <img width="22" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=html" height="58" alt="html5 logo"  />
-  <img width="22" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=css" height="58" alt="css logo"  />
-  <img width="22" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=c" height="58" alt="c logo"  />
   <img width="54" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="58" alt="tailwindcss logo"  />
-  <img width="22" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=react" height="58" alt="react logo"  />
-  <img width="22" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="58" alt="nodejs logo"  />
-  <img width="22" />
+  <img width="16" />
   <img src="https://skillicons.dev/icons?i=vscode" height="58" alt="vscode logo"  />
 </div>
 <br\>
